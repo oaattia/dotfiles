@@ -1,0 +1,4 @@
+EXCLUDES="README.md README LICENSE"
+DOTFILES_DIRS="$HOME/.dotfiles"
+UNDOTTED="bin"
+COPY_ALWAYS="**/.*_history"
